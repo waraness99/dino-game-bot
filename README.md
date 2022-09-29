@@ -1,1 +1,1 @@
-# Dino Game Bot
+# Google Dino Game Bot
